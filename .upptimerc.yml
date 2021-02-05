@@ -6,12 +6,12 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Lenovo
     url: $LENOVO
-  - name: Mail
-    url: https://tommy.heliohost.org
-  - name: Nonna
-    url: $NONNA
   - name: NAS
     url: $NAS
+  - name: Nonna
+    url: $NONNA
+  - name: Mail
+    url: https://tommy.heliohost.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
