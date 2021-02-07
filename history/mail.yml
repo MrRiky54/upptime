@@ -1,7 +1,7 @@
 url: $HELIOHOST
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-07T06:41:01.783Z
+status: up
+code: 200
+responseTime: 640
+lastUpdated: 2021-02-07T06:54:20.633Z
 startTime: Fri Feb 05 2021 19:32:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
