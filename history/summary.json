@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 3111,
     "timeDay": 5448,
     "timeWeek": 3111,
     "timeMonth": 3111,
     "timeYear": 3111,
     "dailyMinutesDown": {
-      "2021-02-06": 30
+      "2021-02-06": 18
     }
   }
 ]
