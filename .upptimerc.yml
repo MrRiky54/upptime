@@ -8,8 +8,6 @@ sites:
     url: $LENOVO
   - name: NAS
     url: $NAS
-  - name: Nonna
-    url: $NONNA
   - name: Mail
     url: $HELIOHOST
 
