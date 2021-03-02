@@ -33,7 +33,7 @@
     "url": "$NAS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "94.93%",
     "uptimeDay": "92.39%",
     "uptimeWeek": "94.71%",
@@ -45,6 +45,7 @@
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2021-03-02": 0,
       "2021-03-01": 110,
       "2021-02-28": 87,
       "2021-02-25": 112,
