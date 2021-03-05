@@ -34,11 +34,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nas",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.61%",
-    "uptimeMonth": "94.74%",
-    "uptimeYear": "94.74%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
     "time": 461,
     "timeDay": 249,
     "timeWeek": 371,
@@ -73,17 +73,17 @@
     "url": "$HELIOHOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "down",
-    "uptime": "97.16%",
+    "status": "up",
+    "uptime": "97.17%",
     "uptimeDay": "98.15%",
     "uptimeWeek": "96.37%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "97.16%",
-    "time": 1306,
-    "timeDay": 635,
-    "timeWeek": 1363,
-    "timeMonth": 1306,
-    "timeYear": 1306,
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 1343,
+    "timeDay": 1827,
+    "timeWeek": 1482,
+    "timeMonth": 1343,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2021-03-04": 44,
       "2021-03-03": 27,
@@ -125,7 +125,7 @@
     "timeMonth": 16340,
     "timeYear": 16340,
     "dailyMinutesDown": {
-      "2021-03-05": 523
+      "2021-03-05": 551
     }
   }
 ]
