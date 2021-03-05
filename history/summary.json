@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "lenovo",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "96.09%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
     "time": 679,
     "timeDay": 475,
     "timeWeek": 500,
@@ -73,17 +73,17 @@
     "url": "$HELIOHOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "down",
+    "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.37%",
     "uptimeMonth": "97.18%",
     "uptimeYear": "97.18%",
-    "time": 1375,
-    "timeDay": 2655,
-    "timeWeek": 1576,
-    "timeMonth": 1405,
-    "timeYear": 1375,
+    "time": 1369,
+    "timeDay": 2362,
+    "timeWeek": 1555,
+    "timeMonth": 1400,
+    "timeYear": 1369,
     "dailyMinutesDown": {
       "2021-03-04": 44,
       "2021-03-03": 27,
@@ -125,7 +125,7 @@
     "timeMonth": 16340,
     "timeYear": 16340,
     "dailyMinutesDown": {
-      "2021-03-05": 762
+      "2021-03-05": 789
     }
   }
 ]
