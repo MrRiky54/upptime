@@ -73,7 +73,7 @@
     "url": "$HELIOHOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -125,7 +125,7 @@
     "timeMonth": 4112,
     "timeYear": 4112,
     "dailyMinutesDown": {
-      "2021-03-12": 843,
+      "2021-03-12": 867,
       "2021-03-11": 1440,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
