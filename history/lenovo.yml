@@ -1,7 +1,7 @@
 url: $LENOVO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-07-13T03:02:47.438Z
+status: up
+code: 200
+responseTime: 674
+lastUpdated: 2021-07-13T03:27:39.855Z
 startTime: Fri Feb 05 2021 19:32:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
