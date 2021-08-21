@@ -13,7 +13,7 @@
     "time": 992,
     "timeDay": 653,
     "timeWeek": 537,
-    "timeMonth": 611,
+    "timeMonth": 612,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2021-02-27": 28,
@@ -42,7 +42,7 @@
     "time": 1029,
     "timeDay": 654,
     "timeWeek": 1145,
-    "timeMonth": 1093,
+    "timeMonth": 1098,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2021-03-04": 87,
@@ -73,7 +73,7 @@
     "url": "$HELIOHOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
