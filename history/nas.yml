@@ -1,7 +1,7 @@
 url: $NAS
-status: up
-code: 200
-responseTime: 432
-lastUpdated: 2021-08-21T23:11:56.298Z
+status: down
+code: 502
+responseTime: 2592
+lastUpdated: 2021-08-22T00:39:12.918Z
 startTime: Fri Feb 05 2021 19:32:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
