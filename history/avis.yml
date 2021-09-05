@@ -1,7 +1,7 @@
 url: $AVIS
-status: down
-code: 502
-responseTime: 753
-lastUpdated: 2021-09-05T02:07:33.381Z
+status: up
+code: 200
+responseTime: 12807
+lastUpdated: 2021-09-05T02:36:18.509Z
 startTime: Fri Mar 05 2021 09:18:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
