@@ -73,7 +73,7 @@
     "url": "$HELIOHOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,7 +81,7 @@
     "uptimeYear": "99.63%",
     "time": 1544,
     "timeDay": 1002,
-    "timeWeek": 1983,
+    "timeWeek": 2002,
     "timeMonth": 1828,
     "timeYear": 1544,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "uptimeYear": "81.64%",
     "time": 2221,
     "timeDay": 912,
-    "timeWeek": 1956,
+    "timeWeek": 2084,
     "timeMonth": 3450,
     "timeYear": 2221,
     "dailyMinutesDown": {
